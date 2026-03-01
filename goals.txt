@@ -1,0 +1,3 @@
+My goal is to understand cloud computing and how it works
+Learn basic networking, storage and virtualization concepts
+Get familiar with major cloud providers like AWS, Microsoft Azure, Google Cloud Platform
